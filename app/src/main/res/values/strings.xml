@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My First Kotlin</string>
+
+    <string name="ipsum"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non. </string>
+</resources>
