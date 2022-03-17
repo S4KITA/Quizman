@@ -13,7 +13,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val mTextViewContent: TextView = findViewById(R.id.mTextViewTitle)
         val mButtonSend: Button = findViewById(R.id.mButtonStart)
 
         mButtonSend.setOnClickListener {
